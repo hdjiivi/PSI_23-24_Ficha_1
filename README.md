@@ -13,41 +13,41 @@ Escreve as respostas dentro dos blocos correspondentes. Substitui as reticência
 ## E1 - Responde às seguintes questões (4v)
 
     1 - As classes são tipos de referência? 
-        ...
-    2 - (Classes/Instâncias) definem o que algo pode fazer e guardar, enquanto uma
-        (classe/instância) é um objeto específico que contém o seu próprio estado 
+        sim
+    2 - (Instâncias) definem o que algo pode fazer e guardar, enquanto uma
+        (classe) é um objeto específico que contém o seu próprio estado 
         (Apaga a opção entre parênteses errada)
     3 - Indica três tipos de membros que podem pertencer a uma classe 
-        ...
+        variaveis metodos e construtores
     4 - Se algo é static então é partilhado por todas as instâncias desse tipo específico? 
-        ...
+        sim
     5 - Como se chamam os métodos especiais que inicializam uma classe? 
-        ...
+        dos construtores
     6 - De onde podes aceder a algo private? 
-        ...
+        de dentro da classe
     7 - De onde podes aceder a algo public? 
-        ... 
+        de qualquer lugar
     8 - De onde podes aceder a algo internal? 
-        ...
+        dentro do mesmo projeto
 
 ## E2 - Explica por palavras tuas o significado dos seguintes termos (4v)
 
     1 - Classe
-        ...
+        sao estruturas que permitem definir um tipo de objeto
     2 - Objeto / instância
-        ...
+        sao casos especificos de objeto
     3 - Método
-        ...
+        é tudo aquilo q a classe pode fazer
     4 - Construtor
-        ...
+        é um metodo especial q inicializa a classe 
     5 - Variável de instância
-        ...
+        define cada estado de instancia da classe
     6 - Variável local
-        ...
+        é uma variavel usada dentro do metodo e pode conter o mesmo nome da variavel de instancia
     7 - Overloading
-        ...
+        multiplos metodos com o mesmo nome
     8 - Encapsulação
-        ...
+        é um conceito q envolve o agrupamento de dados 
 
 ## E3 - Cria o seguinte programa de consola (12v)
 
